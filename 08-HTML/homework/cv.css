@@ -1,76 +1,108 @@
+                   
+        img {height:138px}
         
         #span1 {
-            font-size: 25px;
-            font-weight:bold;
-            position:absolute;top:68px;left:220px;
+            font-size: 33px;
+            font-family:Arial, Helvetica, sans-serif;
+            position:absolute;top:2px;left:270px;
         }
+
         #span2 {
             font-size: 25px;
             font-weight:bold;
-            position:relative;top:0px;left:2px;
+            position:absolute;top:0px;left:6px;
         }
 
         #span3 {
             font-size: 20px;
-            position:absolute;top:28px;left:12px;
+            position:absolute;top:30px;left:12px;
         }
 
         #span4 {
-            font-size: 20px;
-            position:absolute;top:93px;left:228px;
-        }
-        #span5 {
             font-size: 25px;
             font-weight:bold;
-            position:absolute;top:50px;left:8px;
+            position:absolute;top:92px;left:220px;
         }
-        #span6 {
+
+        #span5 {
             font-size: 20px;
-            position:absolute;top:77px;left:12px;
+            position:absolute;top:120px;left:228px;
+        }
+
+        #span6 {
+            font-size: 25px;
+            font-weight:bold;
+            position:relative;top:0px;left:8px;
         }
         #span7 {
             font-size: 20px;
-            position:relative;top:0px;left:6px;
+            position:absolute;top:30px;left:12px;
         }
+
         #span8 {
             font-size: 25px;
             font-weight:bold;
-            position:absolute;top:270px;left:50px;
+            position:absolute;top:220px;left:52px;
         }
         #span9 {
             font-size: 20px;
-            position:absolute;top:300px;left:53px;
+            position:absolute;top:250px;left:52px;
             
                 }
         #span10 {
             font-size: 25px;
             font-weight:bold;
-            position:absolute;top:580px;left:50px;
+            position:absolute;top:533px;left:52px;
         }
         #span11 {
             font-size: 20px;
-            position:absolute;top:605px;left:53px;
+            position:absolute;top:560px;left:52px;
         }
         #span12 {
             font-size: 25px;
             font-weight:bold;
-            position:absolute;top:580px;left:650px;
+            position:absolute;top:533px;left:650px;
         }
         #span13 {
             font-size: 20px;
-            position:absolute;top:605px;left:653px;
+            position:absolute;top:560px;left:650px;
         }
-        #titDiv {
-            position:absolute;top:15px;left:210px;
-            height:145px;
+
+        #priDiv {
+            position:absolute;top:0px;left:210px;
+            height:35px;
             width:1100px;
             background-color:gainsboro;
             padding:2px;
             border-color: black;
+            border-left-style:double;
+            border-right-style:double;
             border-top-style:double;
+        }
+
+        #fotoDiv {
+            position:absolute;top:0px;left:40px;
+            width:170px;
+            height:155px;
+            border-color: black;
+            background-color:rgba(128, 128, 128, 0.459);
+            padding:2px;
+            border-bottom-style:double;
+            border-top-style:double;
+            border-left-style:double;
+        }
+
+        #titDiv {
+            position:absolute;top:35px;left:210px;
+            height:127px;
+            width:1100px;
+            background-color:gainsboro;
+            padding:2px;
+            border-color: black;
             border-left-style:double;
             border-right-style:double;
         }
+
         #eduDiv {
             position:absolute;top:165px;left:40px;
             height:470px;
